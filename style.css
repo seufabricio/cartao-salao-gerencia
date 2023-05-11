@@ -36,10 +36,14 @@ h1{
 	font-family: roboto slab;
 }
 
+footer {
+	align-items: center;
+}
+
 p {
 	font-size: 8px;
 	color: white;
-	text-align: center;
+
 }
 
 .container {
