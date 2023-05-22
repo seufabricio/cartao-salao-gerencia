@@ -12,7 +12,7 @@ a{
 
 
 body{
-	min-height: 100%;
+	min-height: 100vh;
 	font-family: roboto slab;
 	display: flex;
 	justify-content: center;
@@ -21,10 +21,10 @@ body{
 }
 
 .main {
-	justify-content: center;
+	justify-content: top;
 	align-items: center;
 	margin: 60px auto;
-	width: 300px;
+	width: 100%;
 }
 
 .header {
