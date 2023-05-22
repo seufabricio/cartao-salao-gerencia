@@ -15,15 +15,14 @@ body{
 	min-height: 100vh;
 	font-family: roboto slab;
 	display: flex;
-	justify-content: center;
+	align-items: center;
 	background-color: #403233;
 }
 
 .main {
-	justify-content: center;
+	text-align: center;
+	width: 300px;
 	margin: 60px auto;
-	width: 100%;
-}
 
 .header {
 	text-align: center;
